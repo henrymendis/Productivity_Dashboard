@@ -48,7 +48,7 @@ Keep an eye on your machine's health without opening Task Manager. The dashboard
 ## ⚡ How to Install
 
 1. Navigate to the **Releases** tab on the right side of this page.
-2. Download the `floating_main.exe` file.
+2. Download the `Productivity_Dashboard_Standalone.exe` file.
 3. Move the `.exe` to your Desktop (or anywhere you prefer) and double-click to run!
 
 ---
